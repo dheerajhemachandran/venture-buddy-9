@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/venture-buddy-id-9/static/css/main.14011b79.css",
-    "main.js": "/venture-buddy-id-9/static/js/main.6759d8ed.js",
-    "static/media/Cover.svg": "/venture-buddy-id-9/static/media/Cover.211c8e7510aac69b74ee7cf45da077ce.svg",
-    "static/media/Profile.svg": "/venture-buddy-id-9/static/media/Profile.06ffa8459a20f6a4db825d4d51b0d4ea.svg",
-    "static/media/logo.svg": "/venture-buddy-id-9/static/media/logo.1d0ccf64e531db4708e0c9c5687ba089.svg",
-    "index.html": "/venture-buddy-id-9/index.html",
-    "main.14011b79.css.map": "/venture-buddy-id-9/static/css/main.14011b79.css.map",
-    "main.6759d8ed.js.map": "/venture-buddy-id-9/static/js/main.6759d8ed.js.map"
+    "main.css": "/venture-buddy-9/static/css/main.14011b79.css",
+    "main.js": "/venture-buddy-9/static/js/main.e3143536.js",
+    "static/media/Cover.svg": "/venture-buddy-9/static/media/Cover.211c8e7510aac69b74ee7cf45da077ce.svg",
+    "static/media/Profile.svg": "/venture-buddy-9/static/media/Profile.06ffa8459a20f6a4db825d4d51b0d4ea.svg",
+    "static/media/logo.svg": "/venture-buddy-9/static/media/logo.1d0ccf64e531db4708e0c9c5687ba089.svg",
+    "index.html": "/venture-buddy-9/index.html",
+    "main.14011b79.css.map": "/venture-buddy-9/static/css/main.14011b79.css.map",
+    "main.e3143536.js.map": "/venture-buddy-9/static/js/main.e3143536.js.map"
   },
   "entrypoints": [
     "static/css/main.14011b79.css",
-    "static/js/main.6759d8ed.js"
+    "static/js/main.e3143536.js"
   ]
 }
